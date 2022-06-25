@@ -1,0 +1,29 @@
+.NavZinha{
+    width: auto;
+    height: auto;
+}
+.Corpo{
+    background-color: beige;
+    height: 800;
+}
+.footerzin{
+    background-color: aquamarine;
+    width: auto;
+    height: 250px;
+}
+.space{
+    height: 60px;
+}
+.selectForm{
+    text-align: center;
+}
+.spaceForm{
+    height: 22px;
+}
+.card{
+    width: auto;
+    height: auto;
+}
+.Logo{
+    height: 80px;
+}
